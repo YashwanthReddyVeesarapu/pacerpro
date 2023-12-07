@@ -56,17 +56,3 @@ This project implements a basic soft delete functionality for a Ruby on Rails mo
 4. **Running Tests:**
    - Execute `rspec` to run RSpec tests.
    - Ensure all tests pass.
-
-## Explanatory Notes
-
-### Challenges and Design Decisions
-
-- Mention any challenges faced during implementation.
-- Explain any design decisions or enhancements made.
-- Specify any assumptions made regarding requirements.
-
-### Additional Information
-
-- Include any additional information or notes you want to share.
-
-Feel free to reach out for any clarifications or questions.
